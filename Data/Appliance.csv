@@ -1,0 +1,8 @@
+Appliance_Id,Appliance_Name,Power_Consumption_Rating(in watts)
+800001,Refrigerator,200
+800002,Washing Machine,500
+800003,Television,100
+800004,Microwave Oven,800
+800005,Toaster,700
+800006,VacuumCleaner,1000
+800007,HairDryer,1500
